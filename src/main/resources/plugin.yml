@@ -1,0 +1,7 @@
+name: SkyPerms
+version: 1.0.0
+author: DanielFlow
+main: de.danielflowproject.SkyPermission.SkyPerms
+
+commands:
+  
