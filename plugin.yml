@@ -2,3 +2,7 @@ name: SkyPermissions
 main: de.danielflow.project.SkyPermissions.SkyPerms
 version: 1.0.0
 author: danielflow
+
+commands:
+  SkyPerms:
+    description: Infos zu SkyPermissions
